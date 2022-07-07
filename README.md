@@ -1,2 +1,2 @@
 # Web-Projects
-So projects stay in one place
+So web-projects stay in one place
